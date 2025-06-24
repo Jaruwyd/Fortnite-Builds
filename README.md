@@ -48,7 +48,7 @@ All builds are provided for educational and archival purposes.
 
 - **12.00 (CL-11556442)** — [Download](https://public.simplyblk.xyz/12.00.rar)
 - **12.21 (CL-12353830)** — [Download](https://public.simplyblk.xyz/12.21.zip)
-- **12.41 (CL-13193885)** — [Download](http://jaruwyd.duckdns.org:3000)
+- **12.41 (CL-12905909)** — [Download](http://jaruwyd.duckdns.org:3000)
 - **12.50 (CL-13193885)** — [Download](https://public.simplyblk.xyz/12.50.zip)
 
 
